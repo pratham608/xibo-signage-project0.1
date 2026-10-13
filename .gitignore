@@ -1,0 +1,11 @@
+.vagrant/
+shared/
+*.env
+docker-compose.override.yml
+.idea/
+
+config.env
+shared/
+
+test.php
+reset.sql
